@@ -44,7 +44,9 @@ A gadget store would include products like smartphones, cases, powerbanks etc.
 - With the help of the Eloquent ORM, the app can reads and writes data to an SQL database without writing a single raw SQL query.
 
 ### vi. File Security Principles
-- 
+- Disable Client-Side Error Reporting. Sometimes detailed errors can be dangerous. 
+- Although it makes it easier for developer to fix any error but it also provide important information to attackers. 
+- To solve this, I disabled app debug in the env file of the web app.
 
 
 ## References
