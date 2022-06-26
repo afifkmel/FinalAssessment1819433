@@ -50,3 +50,7 @@ A gadget store would include products like smartphones, cases, powerbanks etc.
 
 
 ## References
+- https://www.hacksplaining.com/prevention/information-leakage
+- https://www.codegrepper.com/code-examples/html/how+to+hide+error+in+laravel
+- https://www.stackhawk.com/blog/laravel-xss/
+- https://www.stackhawk.com/blog/sql-injection-prevention-laravel/
